@@ -1,9 +1,9 @@
 {
     "id": "E40974C4",
-    "path": "~/D2P_Project/main.R",
+    "path": "C:/Users/heyqo/Desktop/D2P_Project-Final2/main.R",
     "project_path": "main.R",
     "type": "r_source",
-    "hash": "2128985156",
+    "hash": "2189791876",
     "contents": "",
     "dirty": false,
     "created": 1732881316063.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "151,13",
-        "scrollLine": "132"
+        "cursorPosition": "2,2",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1732882791,
+    "lastKnownWriteTime": 1733910834,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1732882791338,
+    "last_content_update": 1733910834365,
     "read_only": false,
     "read_only_alternatives": []
 }

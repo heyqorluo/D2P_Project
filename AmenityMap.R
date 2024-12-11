@@ -7,7 +7,7 @@ library(bslib)
 library(stringr)
 library(readxl)
 library(readr)
-
+library(tidyr)
 
 # Read the GeoJSON file
 # borough <- read_sf("https://raw.githubusercontent.com/radoi90/housequest-data/refs/heads/master/london_boroughs.geojson")
@@ -119,4 +119,5 @@ create_slider_input <- function(input_id, label, ticks, value) {
 }
 
 customised_tick = c("Min", "Less", "Average", "More", "Max")
+
 

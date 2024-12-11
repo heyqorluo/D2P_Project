@@ -93,7 +93,7 @@ m <- leaflet() %>%
     fillColor = ~mypalette_borough(df$Total[match(borough1$NAME, df$Borough)]),
     group = "Boroughs",
     stroke = TRUE,
-    fillOpacity = 0.9,
+    fillOpacity = 0.7,
     color = "grey",
     highlightOptions = highlightOptions(
       weight = 5,
@@ -126,3 +126,5 @@ m <- leaflet() %>%
   setView(lng = -0.1276, lat = 51.5074, zoom = 10)
 
 m
+
+
